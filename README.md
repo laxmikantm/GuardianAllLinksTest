@@ -42,9 +42,10 @@ Test Output:
 2. Snapshots will be stored at: Test-Output>Snaps
 
 Queries:
-1. For any queries please feel free to drop me an email(laxmi.somni@gmail.com).
+1. For any queries please feel free to drop me an email(Laxmi.somni@gmail.com).
 
 
 Many Thanks
+-Laxmi
 
 
